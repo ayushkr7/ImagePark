@@ -1,6 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# FULLSTACK PINTEREST CLONE
+
+<hr>
+
+## APP DEMO
+### Home Page
+<!-- ![Screenshot (582)](https://github.com/ayushkr7/pinterest-clone/assets/51288637/6411b4ad-cd21-4c2b-9692-5f2d36a4b3c6) -->
+<img src="https://github.com/ayushkr7/pinterest-clone/assets/51288637/6411b4ad-cd21-4c2b-9692-5f2d36a4b3c6" width=60% height=60% />
+
+### Uploading image in public
+<!-- ![image](https://github.com/ayushkr7/pinterest-clone/assets/51288637/1b8b64ae-f378-48a2-be8a-2a0a6b07c12d) -->
+<img src="https://github.com/ayushkr7/pinterest-clone/assets/51288637/1b8b64ae-f378-48a2-be8a-2a0a6b07c12d" width=60% height=60% />
+
+### User Profile
+<!-- ![image](https://github.com/ayushkr7/pinterest-clone/assets/51288637/c20bd98d-a7c3-4c21-8cec-32c008016ae1) -->
+<img src="https://github.com/ayushkr7/pinterest-clone/assets/51288637/c20bd98d-a7c3-4c21-8cec-32c008016ae1" width=60% height=60% />
+
+<hr>
+
+## Tech stack:
+<div display="inline-block">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NextAuth-8529D9?logo=nextauth&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCC2C?logo=firebase&logoColor=black&style=for-the-badge" />
+</div>
+<hr>
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
